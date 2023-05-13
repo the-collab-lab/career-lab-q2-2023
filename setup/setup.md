@@ -9,8 +9,7 @@
   - [X] https://zapier.com/webintent/edit-zap/165061587
   - [X] https://zapier.com/webintent/edit-zap/165061786
 - [ ] Add all participating mentors to sessions as optional (we should add this to the aforementioned Zaps)
-- [ ] Duplicate this Github template repo
-  - [ ] Invite all participants and mentors with Write access to the repo (get emails from spreadsheet: https://docs.google.com/spreadsheets/d/1Np0dlXasvadeVXBpzkOEuf7qmuqMoGdVRml48m5Duq8/edit#gid=0) 
+- [ ] Duplicate this Github template repo and make it public
   - [ ] Fill in the event times
   - [ ] Creating pairing for all sync sessions and put them in the session files
 - [ ] Announce final mentor volunteer participation and make sure mentors have the appropriate training, whether that is sync or async 
