@@ -23,7 +23,7 @@
 | Sat, Jun 3 - Wed, Jun 7                     | Async | [What to ask your interviewers](./session-docs/what-to-ask-your-interviewers.md)                         |
 | Sat, Jun 3 - Wed, Jun 7                     | Async | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
 | Sat, Jun 3 - Wed, Jun 7                     | Async | [Complete take-home assignment](./session-docs/complete-take-home-assignment.md)                         |
-| Mon, Jun 5 @ 9:00AM PT/4:00PM UTC           | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
+| Mon, Jun 5 @ 9:30AM PT/4:30PM UTC           | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
 | Mon, Jun 5 - Wed, Jun 7 - your mock interviews     | Sync*  | [Pair interview practice](./session-docs/pair-interview-practice.md)                             |
 | Tue, Jun 6 - Sat, Jun 10                    | Sync*  | [Job fit mock interview](./session-docs/mock-interview-job-fit.md)                                      |
 | Tue, Jun 6 - Sat, Jun 10                    | Sync*  | [Technical mock interview](./session-docs/mock-interview-technical.md)                                  |
