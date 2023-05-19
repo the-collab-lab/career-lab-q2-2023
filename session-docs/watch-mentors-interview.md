@@ -15,5 +15,5 @@ There are 2 common types of interviews that most companies do: job fit and techn
 
 # Technical
 
-[NAME] will interview [NAME] in a mock technical interview, spending most of the time reviewing the take home assignment.
+EJ will interview Nick in a mock technical interview, spending most of the time reviewing the take home assignment.
 
