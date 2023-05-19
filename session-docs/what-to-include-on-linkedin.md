@@ -33,8 +33,8 @@ In this lesson, we will go over each of the main parts of a LinkedIn profile. To
 
 **Here’s the video**: [https://www.loom.com/share/4306990ea09249bb8c5d5e8c744e5441](https://www.loom.com/share/4306990ea09249bb8c5d5e8c744e5441)
 
-- Experience section - CollabLab experience (self-employed, Full-stack developer,...), simple English used, always bullet points.
-- Education section - put tech stacks and end dates for each education experience
+- Experience section - CollabLab experience (self-employed, Full-stack developer,...), simple English used, always bullet points
+- Education section - put tech stacks and end dates (optional) for each education experience
 - Certifications - Optional, put these if you have them
 - Volunteer Experience - Optional but very nice to put these
 
