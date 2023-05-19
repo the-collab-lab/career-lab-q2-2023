@@ -10,8 +10,6 @@ What you ask and how you word your questions can reflect either positively or ne
 
 [Link to the video of Andrew talking about what to ask your interviewers](https://youtu.be/baAHNxdiebk) 📽
 
-[English transcript](transcripts/what-to-ask-your-interviewers-english.txt) | [Transcripción en español](transcripts/what-to-ask-your-interviewers-spanish.txt) 📝
-
 ## Reflect on previous workplaces
 
 Reflect on positive and negative experiences that you’ve had in previous jobs. Write down a list of helpful and harmful aspects of those workplaces. This could have to do with your manager, the organization’s leadership, the product or service being provided, your coworkers, your team’s processes, or even expectations that they had.
