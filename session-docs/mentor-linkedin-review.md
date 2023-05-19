@@ -4,11 +4,11 @@
 
 ## Collabies:
 
-Please ping your assigned mentor with your profile that is ready for review no later than Wednesday, August 31st!
+Please ping your assigned mentor with your profile that is ready for review no later than Wednesday, May 31st!
 
 ## Mentors:
 
-Please have review and [rubric](https://docs.google.com/spreadsheets/d/1e0n1k6izyZM0mkmkL9zezr7FW2-qRLu-bmFnYBLVkLs/edit) submitted to Collabies by [DATE].
+Please have review and [rubric](https://docs.google.com/spreadsheets/d/1e0n1k6izyZM0mkmkL9zezr7FW2-qRLu-bmFnYBLVkLs/edit) submitted to Collabies by Saturday, June 3rd.
 
 ---
 
