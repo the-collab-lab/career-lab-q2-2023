@@ -32,3 +32,30 @@ Technical Interview Pairings:
 
 | Collabie | Technical Interviewer |
 | ---- | ---- |
+Nicole Schnurr | 	EJ Mason (they/them)
+Jeremiah Fallin | 	Eddie Solar
+Yao Jiang | 	Danielle Heberling
+Ticia Francisco | 	Luis Augusto
+Katherine Yuneman | 	Ryan Hinerman
+Yire Morlans | 	Viet Tran
+Amy Preci | 	Frank Stepanski
+Beth Melesse | 	EJ Mason (they/them)
+Jon Granados | 	Eddie Solar
+Emily Sellers | 	Danielle Heberling
+Khadija Gwarzo | 	Luis Augusto
+Peace Sandy | 	Ryan Hinerman
+Alessandra Maffei | 	Viet Tran
+Ibrahim Abdulbasit | 	Frank Stepanski
+Mike | 	EJ Mason (they/them)
+Cassandra Umeh | 	Eddie Solar
+Karen P | 	Danielle Heberling
+Shah | 	Luis Augusto
+Laura Abro | 	Ryan Hinerman
+Shagun | 	Nick Taylor
+Yufa | 	Frank Stepanski
+Olivia Sparks | 	EJ Mason (they/them)
+Lizzy Pine | 	Eddie Solar
+Hanson Tram | 	Danielle Heberling
+Devin Jaggernauth | 	Luis Augusto
+Sandra Guerra | 	Ryan Hinerman
+Drake Nguyen | 	Frank Stepanski
