@@ -19,3 +19,30 @@ Linkedin Review Pairings:
 
 | Collabie | Linkedin Reviewer |
 | ---- | ---- |
+| Nicole Schnurr | Eddie Solar
+| Jeremiah Fallin | Danielle Heberling
+| Yao Jiang | Andrew Hedges
+| Ticia Francisco | Devin Jaggernauth
+| Katherine Yuneman | Lisa Smith
+| Yire Morlans | Luis Augusto
+| Amy Preci | Ryan Hinerman
+| Beth Melesse | Shraddha
+| Jon Granados | Klesta Luli
+| Emily Sellers | Alex D'Antonio (she/her)
+| Khadija Gwarzo | Devin Jaggernauth
+| Peace Sandy | Eddie Solar
+| Alessandra Maffei | Andrew Hedges
+| Ibrahim Abdulbasit | Danielle Heberling
+| Mike | Klesta Luli
+| Cassandra Umeh | Lisa Smith
+| Karen P | Luis Augusto
+| Shah | Ryan Hinerman
+| Laura Abro | Shraddha
+| Shagun | Caitlin Floyd (she/her)
+| Yufa | Alex D'Antonio (she/her)
+| Olivia Sparks | Devin Jaggernauth
+| Lizzy Pine | Andrew Hedges
+| Hanson Tram | Klesta Luli
+| Devin Jaggernauth | Caitlin Floyd (she/her)
+| Sandra Guerra | Alex D'Antonio (she/her)
+| Drake Nguyen | Lisa Smith
