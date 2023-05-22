@@ -2,7 +2,7 @@
 
 During a technical interview, it is fairly common to be asked to walk through a piece of code the interviewee has written, often times this will be in the form of a take-home assignment that the company has provided to them.
 
-As part of Career Lab, Collabies will work through [this take-home assignment](https://github.com/the-collab-lab/career-lab-challenge-next) and review that code during a mock interview, in addition to covering some general software engineering questions (listed below).
+As part of Career Lab, Collabies will work through [this take-home assignment](https://github.com/the-collab-lab/career-lab-challenge-next) and review that code during a mock interview. In addition to questions specific to the take-home, you might also receive questions covering some general software engineering topics (listed below).
 
 ## Frontend (HTML, CSS)
 
