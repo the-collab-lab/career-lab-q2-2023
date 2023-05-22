@@ -13,3 +13,16 @@ If you have questions or comments, please don't hesitate to reach out in your co
 
 | Collabie | Collabie | Collabie |
 | ---- | ---- | ---- |
+Nicole Schnurr | 	Alessandra Maffei
+Jeremiah Fallin | 	Ibrahim Abdulbasit
+Yao Jiang | 	Mike
+Ticia Francisco | 	Cassandra Umeh
+Katherine Yuneman | 	Karen P
+Yire Morlans | 	Shah
+Amy Preci | 	Laura Abro
+Beth Melesse | 	Shagun
+Jon Granados | 	Yufa
+Emily Sellers | 	Olivia Sparks
+Khadija Gwarzo | 	Lizzy Pine
+Peace Sandy | 	Hanson Tram
+Devin Jaggernauth | 	Sandra Guerra |  Drake Nguyen
