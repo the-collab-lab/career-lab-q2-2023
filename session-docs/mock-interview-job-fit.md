@@ -33,3 +33,30 @@ Job-Fit Interview Pairings:
 
 | Collabie | Job Fit Interviewer |
 | ---- | ---- |
+Nicole Schnurr | 	Caitlin Floyd (she/her)
+Jeremiah Fallin | 	Brian Hogan (he/him)
+Yao Jiang | 	Viet Tran
+Ticia Francisco | 	Lisa Smith
+Katherine Yuneman | 	Andrew Hedges
+Yire Morlans | 	Caitlin Floyd (she/her)
+Amy Preci | 	Brian Hogan (he/him)
+Beth Melesse | 	Stacie Taylor
+Jon Granados | 	Viet Tran
+Emily Sellers | 	Lisa Smith
+Khadija Gwarzo | 	Caitlin Floyd (she/her)
+Peace Sandy | 	Brian Hogan (he/him)
+Alessandra Maffei | 	Stacie Taylor
+Ibrahim Abdulbasit | 	Andrew Hedges
+Mike | 	Viet Tran
+Cassandra Umeh | 	Caitlin Floyd (she/her)
+Karen P	 | Brian Hogan (he/him)
+Shah | 	Stacie Taylor
+Laura Abro | 	Andrew Hedges
+Shagun | 	Lisa Smith
+Yufa | 	Caitlin Floyd (she/her)
+Olivia Sparks | 	Brian Hogan (he/him)
+Lizzy Pine | 	Stacie Taylor
+Hanson Tram | 	Andrew Hedges
+Devin Jaggernauth | 	Lisa Smith
+Sandra Guerra | 	Caitlin Floyd (she/her)
+Drake Nguyen | 	Brian Hogan (he/him)
