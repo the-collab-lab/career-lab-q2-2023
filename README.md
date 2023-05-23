@@ -29,7 +29,7 @@
 | Tue, Jun 6 - Sat, Jun 10                    | Sync*  | [Technical mock interview](./session-docs/mock-interview-technical.md)                                  |
 | Sun, Jun 11 @ 10:00AM PT/5:00PM UTC         | Sync  | [That's a Wrap](./session-docs/graduation.md)                                                            |
 
-*It is the collabie's responsibility to reach out to their partner and schedule the `` Sync* `` meetings*
+*It is the collabie's responsibility to reach out to their partner and schedule the `` Sync* `` meetings. If you are unable to schedule a synchronous meeting during this time frame, please DM Shelley for an alternative.*
 
 ## Additional Resources
 
