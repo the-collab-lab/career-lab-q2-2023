@@ -9,10 +9,6 @@ There are 2 common types of interviews that most companies do: job fit and techn
 
 > **Technical interviews** are geared towards determining the technical skill level of the applicant.
 
-# Job fit
-
-[NAME] will interview [NAME] in a mock job fit interview.
-
 # Technical
 
 EJ will interview Nick in a mock technical interview, spending most of the time reviewing the take home assignment.
