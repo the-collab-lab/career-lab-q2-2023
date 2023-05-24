@@ -46,3 +46,4 @@ Linkedin Review Pairings:
 | Devin Jaggernauth | Caitlin Floyd (she/her)
 | Sandra Guerra | Alex D'Antonio (she/her)
 | Drake Nguyen | Lisa Smith
+| Annemarie Lucernoni | Klesta Luli
