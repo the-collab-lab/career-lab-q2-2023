@@ -11,8 +11,8 @@ Reach out to the partner you are paired with below, schedule a meeting, and work
 If you have questions or comments, please don't hesitate to reach out in your cohort Slack channel!
 
 
-| Collabie | Collabie | Collabie |
-| ---- | ---- | ---- |
+| Collabie | Collabie |
+| ---- | ---- |
 Nicole Schnurr | 	Alessandra Maffei
 Jeremiah Fallin | 	Ibrahim Abdulbasit
 Yao Jiang | 	Mike
@@ -25,4 +25,5 @@ Jon Granados | 	Yufa
 Emily Sellers | 	Olivia Sparks
 Khadija Gwarzo | 	Lizzy Pine
 Peace Sandy | 	Hanson Tram
-Devin Jaggernauth | 	Sandra Guerra |  Drake Nguyen
+Devin Jaggernauth | Annemarie Lucernoni
+Sandra Guerra |  Drake Nguyen
