@@ -60,3 +60,4 @@ Hanson Tram | 	Andrew Hedges
 Devin Jaggernauth | 	Lisa Smith
 Sandra Guerra | 	Caitlin Floyd (she/her)
 Drake Nguyen | 	Brian Hogan (he/him)
+Annemarie Lucernoni | Shelley McHardy
