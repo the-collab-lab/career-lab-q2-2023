@@ -59,3 +59,4 @@ Hanson Tram | 	Danielle Heberling
 Devin Jaggernauth | 	Luis Augusto
 Sandra Guerra | 	Ryan Hinerman
 Drake Nguyen | 	Frank Stepanski
+Annemarie Lucernoni | Frank Stepanski
