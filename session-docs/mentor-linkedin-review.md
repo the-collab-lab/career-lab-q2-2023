@@ -31,7 +31,6 @@ Linkedin Review Pairings:
 | Emily Sellers | Alex D'Antonio (she/her)
 | Khadija Gwarzo | Devin Jaggernauth
 | Peace Sandy | Eddie Solar
-| Alessandra Maffei | Andrew Hedges
 | Ibrahim Abdulbasit | Danielle Heberling
 | Mike | Klesta Luli
 | Cassandra Umeh | Lisa Smith
