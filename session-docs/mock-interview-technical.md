@@ -50,7 +50,6 @@ Mike | 	EJ Mason (they/them)
 Cassandra Umeh | 	Eddie Solar
 Karen P | 	Danielle Heberling
 Shah | 	Luis Augusto
-Laura Abro | 	Ryan Hinerman
 Shagun | 	Nick Taylor
 Yufa | 	Frank Stepanski
 Olivia Sparks | 	EJ Mason (they/them)
