@@ -11,19 +11,19 @@ Reach out to the partner you are paired with below, schedule a meeting, and work
 If you have questions or comments, please don't hesitate to reach out in your cohort Slack channel!
 
 
-| Collabie | Collabie | Collabie |
-| ---- | ---- | ---- |
+| Collabie | Collabie |
+| ---- | ---- |
 Jeremiah Fallin | 	Ibrahim Abdulbasit
 Yao Jiang | 	Mike
 Ticia Francisco | 	Cassandra Umeh
 Katherine Yuneman | 	Karen P
 Yire Morlans | 	Shah
-Amy Preci | 	Laura Abro
+Amy Preci | Nicole Schnurr
 Beth Melesse | 	Shagun
 Jon Granados | 	Yufa
 Emily Sellers | 	Olivia Sparks
 Khadija Gwarzo | 	Lizzy Pine
 Peace Sandy | 	Hanson Tram
 Sandra Guerra |  Drake Nguyen
-Devin Jaggernauth | Annemarie Lucernoni | Nicole Schnurr
+Devin Jaggernauth | Annemarie Lucernoni
 
