@@ -51,7 +51,6 @@ Mike | 	Viet Tran
 Cassandra Umeh | 	Caitlin Floyd (she/her)
 Karen P	 | Brian Hogan (he/him)
 Shah | 	Stacie Taylor
-Laura Abro | 	Andrew Hedges
 Shagun | 	Lisa Smith
 Yufa | 	Caitlin Floyd (she/her)
 Olivia Sparks | 	Brian Hogan (he/him)
