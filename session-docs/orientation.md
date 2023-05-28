@@ -1,6 +1,8 @@
 # Sync: Career Lab Kickoff
 
-# Let’s do this! Let’s get you that first/next tech job!!!
+## Let’s do this! Let’s get you that first/next tech job!!!
+
+### Watch the recording here: https://youtu.be/WC3Q7wHpGII
 
 Your mentors have been working super hard to put together a program we think is going to kick start your job search. We couldn’t be more excited to spend the next 2 weeks of Career Lab helping get you to a spot where you make a good first impression to recruiters and hiring managers!
 
