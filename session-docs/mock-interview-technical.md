@@ -52,7 +52,6 @@ Karen P | 	Danielle Heberling
 Shah | 	Luis Augusto
 Shagun | 	Nick Taylor
 Yufa | 	Frank Stepanski
-Olivia Sparks | 	EJ Mason (they/them)
 Lizzy Pine | 	Eddie Solar
 Hanson Tram | 	Danielle Heberling
 Devin Jaggernauth | 	Luis Augusto
