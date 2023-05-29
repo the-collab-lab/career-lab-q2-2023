@@ -53,7 +53,6 @@ Karen P	 | Brian Hogan (he/him)
 Shah | 	Stacie Taylor
 Shagun | 	Lisa Smith
 Yufa | 	Caitlin Floyd (she/her)
-Olivia Sparks | 	Brian Hogan (he/him)
 Lizzy Pine | 	Stacie Taylor
 Hanson Tram | 	Andrew Hedges
 Devin Jaggernauth | 	Lisa Smith
