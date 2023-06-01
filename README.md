@@ -15,7 +15,7 @@
 | Sun, May 28 - Wed, May 31                   | Async | [How to tell your story](./session-docs/how-to-tell-your-story.md)                                       |
 | Wed, May 31 - Sat, Jun 3                    | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
 | Thurs, Jun 1 @ 4:30PM PT/11:30PM UTC        | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
-| Fri, Jun 2 @ 10:00AM PT/5:00PM UTC          | Sync  | [Q&A with a recruiter](./session-docs/q-and-a-with-recruiter.md)                                         |
+| ~~Fri, Jun 2 @ 10:00AM PT/5:00PM UTC~~          | Async  | [Q&A with a recruiter](./session-docs/q-and-a-with-recruiter.md)                                         |
 
 ### Week Two - Interviews
 | Date/ Date Range                            | Type  | Session |
