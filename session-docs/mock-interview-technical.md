@@ -45,7 +45,7 @@ Emily Sellers | 	Danielle Heberling
 Khadija Gwarzo | 	Luis Augusto
 Peace Sandy | 	Ryan Hinerman
 Alessandra Maffei | 	Viet Tran
-Ibrahim Abdulbasit | 	Frank Stepanski
+Ibrahim Abdulbasit | 	EJ Mason (they/them)
 Mike | 	EJ Mason (they/them)
 Cassandra Umeh | 	Eddie Solar
 Karen P | 	Danielle Heberling
