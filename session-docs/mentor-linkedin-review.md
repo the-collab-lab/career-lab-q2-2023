@@ -43,6 +43,5 @@ Linkedin Review Pairings:
 | Lizzy Pine | Andrew Hedges
 | Hanson Tram | Klesta Luli
 | Devin Jaggernauth | Caitlin Floyd (she/her)
-| Sandra Guerra | Alex D'Antonio (she/her)
 | Drake Nguyen | Lisa Smith
 | Annemarie Lucernoni | Klesta Luli
