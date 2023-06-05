@@ -54,7 +54,6 @@ Shah | 	Stacie Taylor
 Shagun | 	Lisa Smith
 Yufa | 	Caitlin Floyd (she/her)
 Lizzy Pine | 	Stacie Taylor
-Hanson Tram | 	Andrew Hedges
 Devin Jaggernauth | 	Lisa Smith
 Drake Nguyen | 	Brian Hogan (he/him)
 Annemarie Lucernoni | Shelley McHardy
